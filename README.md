@@ -1,0 +1,1 @@
+We will explore Feature attribution method which is local explanation technique that assign scores to feature based on certain criteria, such as local decision boundary. Feature score captures features contribution to the predicted value of an instance.
